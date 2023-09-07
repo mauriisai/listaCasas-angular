@@ -1,4 +1,6 @@
 # Angular Homes App
+This project was generated with Angular CLI version 16.1.5.
+
 ## Install Angular if you don't have it installed
 
   `npm install -g @angular/cli`
